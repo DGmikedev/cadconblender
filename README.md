@@ -1,5 +1,4 @@
 # BELNDER COMO PROGRAMA DE CAD PARA DISEÑO DE ISOMÉTRICOS
+![Proyecto 200 Pieza para soporte de ejes verticales de centrifugado]
 
-### Proyecto 200 Pieza para soporte de ejes verticales de centrifugado.
-
-![alt text](image.png)
+![./cad_1_0_mod_200/README.md](image-1.png)
